@@ -1,2 +1,10 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
 # ggrichlegend
-Easily add a legend to ggplot2 plots using geom_richtext
+
+<!-- badges: start -->
+
+[![Travis build
+status](https://travis-ci.org/mattcowgill/ggrichlegend.svg?branch=master)](https://travis-ci.org/mattcowgill/ggrichlegend)
+<!-- badges: end -->
