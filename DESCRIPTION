@@ -10,9 +10,11 @@ Authors@R:
 Description: What the package does (one paragraph).
 Imports:
     ggtext,
-    ggplot2
+    ggplot2,
+    ggannotate
 Remotes:
-    wilkelab/ggtext
+    wilkelab/ggtext,
+    mattcowgill/ggannotate
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
